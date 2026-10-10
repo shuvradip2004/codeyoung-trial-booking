@@ -1,0 +1,13 @@
+.confirm-icon {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: #16a34a;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 64px;
+}
+.confirmation-card a {
+  word-break: break-all;
+}
